@@ -1,0 +1,19 @@
+{
+  "homePage": "Home",
+  "personalInformation": "Personal Information",
+  "name": "Name",
+  "nameHint": "Enter your name",
+  "email": "Email",
+  "emailHint": "Enter your email",
+  "dateOfBirth": "Date of Birth",
+  "requiredField": "Required Field",
+  "submitInfo": "Submit Info",
+  "aboutUs": "About Us",
+  "about": "APiCode is a Company for Software Development and IT Service",
+  "abo": "Web design service Our company is considered one of the best web design companies, as it is not an ordinary web design company, but it is a company capable of competing with the largest international design companies. And the biggest evidence of this is our own website that appears in front of you now, and through its design you can be sure of our level of professionalism in creating innovative and attractive designs for websites. Where the team of designers in our company creates a website that is responsive to all tablet devices, as well as to global search engines. As it has become necessary for your website to be responsive to mobile phones and tablets, in order to achieve the greatest amount of popularity for the site. In a web design company, we design all kinds of large and small websites, forums, blogs and classifieds.",
+  "settings": "Settings",
+  "changeLanguage": "Change Language",
+  "sing":"Sing-up",
+  "tech": "Technology we work with",
+  "pdev": "Application Development"
+}
